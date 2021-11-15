@@ -1,5 +1,6 @@
 # Extended Soundtrack
 This is the source code for the Minecraft Extended Soundtrack Mod.
+NOTE: The music files used in the code have been removed for copyright reasons.
 Here is a full descirption of everything below:
 
 ## Description
