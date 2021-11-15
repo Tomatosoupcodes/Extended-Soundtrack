@@ -1,0 +1,95 @@
+{
+	"music.creative": {
+		"sounds": [
+		  {
+		  	"name": "minecraft:music/creative/c418-moog-city",
+		  	"stream": true
+		  },
+		  {
+		  	"name": "minecraft:music/creative/c418-beginning",
+		  	"stream": true
+		  }
+		]
+	},
+	"music.game": {
+		"sounds": [
+		  {
+		  	"name": "minecraft:music/game/c418-door",
+		  	"stream": true
+		  },
+		  {
+		  	"name": "minecraft:music/game/c418-equinoxe",
+		  	"stream": true
+		  },
+		  {
+		  	"name": "minecraft:music/game/c418-chris",
+		  	"stream": true
+		  }
+		]
+	},
+	"music.nether.basalt_deltas": {
+		"sounds": [
+		  {
+		  	"name": "minecraft:music/nether/c418-excuse",
+		  	"stream": true
+		  },
+		  {
+		  	"name": "minecraft:music/nether/c418-ki",
+		  	"stream": true
+		  },
+		  {
+		  	"name": "minecraft:music/nether/c418-intro",
+		  	"stream": true
+		  }
+		]
+	},
+	"music.nether.nether_wastes": {
+		"sounds": [
+		  {
+		  	"name": "minecraft:music/nether/c418-excuse",
+		  	"stream": true
+		  },
+		  {
+		  	"name": "minecraft:music/nether/c418-ki",
+		  	"stream": true
+		  },
+		  {
+		  	"name": "minecraft:music/nether/c418-intro",
+		  	"stream": true
+		  	
+		  }
+		]
+	},
+	"music.nether.soul_sand_valley": {
+		"sounds": [
+		  {
+		  	"name": "minecraft:music/nether/c418-excuse",
+		  	"stream": true
+		  },
+		  {
+		  	"name": "minecraft:music/nether/c418-ki",
+		  	"stream": true
+		  },
+		  {
+		  	"name": "minecraft:music/nether/c418-intro",
+		  	"stream": true
+		  }
+		]
+	},
+	"music.nether.crimson_forest": {
+		"sounds": [
+		  {
+		  	"name": "minecraft:music/nether/c418-excuse",
+		  	"stream": true
+		  },
+		  {
+		  	"name": "minecraft:music/nether/c418-ki",
+		  	"stream": true
+		  },
+		  {
+		  	"name": "minecraft:music/nether/c418-intro",
+		  	"stream": true
+		  }
+		]
+	}
+}
