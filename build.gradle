@@ -83,11 +83,11 @@ jar {
         attributes([
             "Specification-Title": "minecraft-ost-plus",
             "Specification-Vendor": "tomatosoupcodes",
-            "Specification-Version": "1.0",
-            "Implementation-Title": project.name,
+            "Specification-Version": "1.0.0",
+            "Implementation-Title": "Extended-Soundtrack,
             "Implementation-Version": "${version}",
             "Implementation-Vendor" :"tomatosoupcodes",
-            "Implementation-Timestamp": new Date().format("2021-08-20'T'HH:mm:ssZ")
+            "Implementation-Timestamp": new Date().format("2021-11-15'T'HH:mm:ssZ")
         ])
     }
 }
