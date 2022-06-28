@@ -1,0 +1,23 @@
+{
+	"item.mc_ost_plus.music_disc_death": "\u00A7bMusic Disc",
+	"item.mc_ost_plus.music_disc_dog": "\u00A7bMusic Disc",
+	"item.mc_ost_plus.music_disc_droopylr": "\u00A7bMusic Disc",
+	"item.mc_ost_plus.music_disc_droopylyf": "\u00A7bMusic Disc",
+	"item.mc_ost_plus.music_disc_flake": "\u00A7bMusic Disc",
+	"item.mc_ost_plus.music_disc_kyoto": "\u00A7bMusic Disc",
+	"item.mc_ost_plus.music_disc_eleven": "\u00A7bMusic Disc",
+	"item.mc_ost_plus.music_disc_0x10c": "\u00A7bMusic Disc",
+	"item.mc_ost_plus.music_disc_0": "\u00A7bMusic Disc",
+	
+	"item.mc_ost_plus.music_disc_death.desc": "C418 - death",
+	"item.mc_ost_plus.music_disc_dog.desc": "C418 - dog",
+	"item.mc_ost_plus.music_disc_droopylr.desc": "C418 - droopy likes ricochet",
+	"item.mc_ost_plus.music_disc_droopylyf.desc": "C418 - droopy likes your face",
+	"item.mc_ost_plus.music_disc_flake.desc": "C418 - flake",
+	"item.mc_ost_plus.music_disc_kyoto.desc": "C418 - kyoto",
+	"item.mc_ost_plus.music_disc_eleven.desc": "C418 - eleven",
+	"item.mc_ost_plus.music_disc_0x10c.desc": "C418 - 0x10c",
+	"item.mc_ost_plus.music_disc_0.desc": "C418 - 0",
+	
+	"itemGroup.mc_ost_plus": "Minecraft OST Plus"
+}

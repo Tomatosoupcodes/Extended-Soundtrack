@@ -1,0 +1,37 @@
+modLoader="javafml" 
+
+loaderVersion="[35,)"
+
+license="GNU GPL 3.0"
+
+[[mods]] 
+
+modId="mc_ost_plus" 
+
+version="1.1.2" 
+
+displayName="Minecraft Extended Soundtrack" 
+
+displayURL="https://www.curseforge.com/minecraft/mc-mods/extended-soundtrack" 
+
+logoFile="logo.png" 
+
+credits="Thanks to Reed_4_2 for the logo and textures, to JoeMan420 for sound editing, and to C418 for his amazing music." 
+
+authors="Reed_4_2 (art), Tomatosoupcodes (programming/concept), Joeman420 (sound/music)" 
+
+description='''
+
+This mod adds all C418's unused music from Volume Alpha and Beta into the game. Some tracks have been slightly edited for ingame.
+A full list of where every song plays is available in the README and on the mod's Forge page.
+
+Note: I do not own any of this music. 
+All music belongs to Daniel Rosenfeld, aka C418, and I am complient with any requests he has for this mod to be removed. 
+
+C418 makes great music, and if you want to know more, here are some links: 
+Check him out here: https://c418.org
+Get his music here: https://c418.bandcamp.com
+
+Source code for this mod is available here: https://github.com/Tomatosoupcodes/Extended-Soundtrack
+
+'''

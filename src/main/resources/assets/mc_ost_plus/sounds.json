@@ -1,0 +1,83 @@
+{
+	"record.death": {
+		"category": "record",
+		"sounds": [
+		  {
+		  	"name": "mc_ost_plus:music/records/c418-death",
+		  	"stream": true
+		  }
+		]
+	},
+	"record.dog": {
+		"category": "record",
+		"sounds": [
+		  {
+		  	"name": "mc_ost_plus:music/records/c418-dog",
+		  	"stream": true
+		  }
+		]
+	},
+	"record.droopy_likes_ricochet": {
+		"category": "record",
+		"sounds": [
+		  {
+		  	"name": "mc_ost_plus:music/records/c418-droopy-likes-ricochet",
+		  	"stream": true
+		  }
+		]
+	},
+	"record.droopy_likes_your_face": {
+		"category": "record",
+		"sounds": [
+		  {
+		  	"name": "mc_ost_plus:music/records/c418-droopy-likes-your-face",
+		  	"stream": true
+		  }
+		]
+	},
+	"record.flake": {
+		"category": "record",
+		"sounds": [
+		  {
+		  	"name": "mc_ost_plus:music/records/c418-flake",
+		  	"stream": true
+		  }
+		]
+	},
+	"record.kyoto": {
+		"category": "record",
+		"sounds": [
+		  {
+		  	"name": "mc_ost_plus:music/records/c418-kyoto",
+		  	"stream": true
+		  }
+		]
+	},
+	"record.eleven": {
+		"category": "record",
+		"sounds": [
+		  {
+		  	"name": "mc_ost_plus:music/records/c418-eleven",
+		  	"stream": true
+		  }
+		]
+	},
+	"record.0x10c": {
+		"category": "record",
+		"sounds": [
+		  {
+		  	"name": "mc_ost_plus:music/records/c418-0x10c",
+		  	"stream": true
+		  }
+		]
+	},
+	"record.0": {
+		"category": "record",
+		"sounds": [
+		  {
+		  	"name": "mc_ost_plus:music/records/c418-0",
+		  	"stream": true
+		  }
+		]
+	}
+}	

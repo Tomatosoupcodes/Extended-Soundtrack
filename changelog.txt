@@ -1,0 +1,59 @@
+Release 1.0.0
+~~~~~~~~~~~~~~~~
+
+Removed more bugs, finished mod completely.
+First public release
+
+Beta 0.6.1
+_____________
+
+Squashed some bugs and finished adding textures
+
+
+Beta 0.6.0
+_____________
+
+Added End loot tables
+
+
+Beta 0.5.1
+_____________
+
+Fixed issue with discs not getting quieter the further you walked away
+
+
+
+Beta 0.4.0
+_____________
+
+Added all background music
+
+
+Alpha 0.3.0
+=============
+
+Added first permanent textures
+
+
+
+Alpha 0.2.0
+=============
+
+Added the rest of the standard music discs
+
+
+
+Alpha 0.1.0
+=============
+
+Added C418 - Dog and Death
+
+Uploaded temporary textures
+
+
+Pre-Alpha
+-----------------
+
+Added metadata/mods.toml
+
+Organized project
