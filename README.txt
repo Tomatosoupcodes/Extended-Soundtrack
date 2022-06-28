@@ -65,13 +65,13 @@ III. Mod Specs
 
  Modding API: Forge
 
- Minecraft version: 1.16.4
+ Minecraft version: 1.16.4, 1.16.5
 
- Current Minecraft versions supported: 1.16.4
+ Current Minecraft versions supported: 1.16.4, 1.16.5
 
- Newest Mod version: 1.0.0
+ Newest Mod version: 1.0.1
 
- Forge Version: 35.1.4
+ Forge Version: 35.1.4, 36.2.34
 
 =========================================
 IV. Licensing and Source Code for Modders
