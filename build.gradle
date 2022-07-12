@@ -12,7 +12,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '1.0.0'
+version = '1.0.1'
 group = 'com.github.Tomatosoupcodes.mc_ost_plus' 
 archivesBaseName = 'mc_ost_plus'
 
@@ -83,7 +83,7 @@ jar {
         attributes([
             "Specification-Title": "minecraft-extended-soundtrack",
             "Specification-Vendor": "tomatosoupcodes",
-            "Specification-Version": "1.0.0",
+            "Specification-Version": "1.0.1",
             "Implementation-Title": "Extended-Soundtrack",
             "Implementation-Version": "${version}",
             "Implementation-Vendor" :"tomatosoupcodes",
