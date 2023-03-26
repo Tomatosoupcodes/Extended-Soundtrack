@@ -1,4 +1,4 @@
-Minecraft Extended Soundtrack © 2021 Ryan Mann
+Minecraft Extended Soundtrack Â© 2021 Ryan Mann
 
 This text document lays out the description, installation, and other specifics of the Minecraft Extended Soundtrack mod.
 
@@ -16,7 +16,7 @@ C418 - Death: Music Disc
 
 C418 - Moog City: Creative Mode
 
-C418 - Équinoxe: Survival Mode
+C418 - Ã‰quinoxe: Survival Mode
 
 C418 - Chris: Survival Mode
 
@@ -58,20 +58,6 @@ opened your .minecraft folder, you have to press Windows Key + R, and type the f
 3. Run Forge: Simply run Forge from the Minecraft Launcher, and the mod should show up!
 
 If this doesn't work, you can check other guides for your operating system.
-
-==============
-III. Mod Specs
-==============
-
- Modding API: Forge
-
- Minecraft version: 1.16.4, 1.16.5
-
- Current Minecraft versions supported: 1.16.4, 1.16.5
-
- Newest Mod version: 1.0.1
-
- Forge Version: 35.1.4, 36.2.34
 
 =========================================
 IV. Licensing and Source Code for Modders
